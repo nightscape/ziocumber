@@ -1,0 +1,8 @@
+//> using publish.organization "io.github.nightscape"
+//> using publish.name "ziocumber"
+//> using publish.computeVersion "git:tag"
+//> using publish.repository "central-s01"
+//> using publish.license "Apache-2.0"
+//> using publish.url "https://github.com/nightscape/ziocumber"
+//> using publish.versionControl "github:nightscape/ziocumber"
+//> using publish.developer "Martin Mauch|martin.mauch@gmail.com|https://nightscape.github.io"
